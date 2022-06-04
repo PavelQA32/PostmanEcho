@@ -46,7 +46,7 @@ public class MyTest {
                         "                },\n" +
                         "                {\n" +
                         "                    \"name\": \"ring\",\n" +
-                        "                    \"action\": \"magic\"\n" +
+                        "                    \"action\": \"magi\"\n" +
                         "                }\n" +
                         "            ]\n" +
                         "        }\n" +
